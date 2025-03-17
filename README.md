@@ -3,22 +3,9 @@
 ## About Me
 Software developer. Currently studying at RMIT University.
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter: YourTwitter](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
-[![Website](https://img.shields.io/badge/Website-yourdomain.com-informational?style=flat-square&logo=appveyor&logoColor=white&color=2bbc8a)](https://yourdomain.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-
-## 🔭 Current Projects
-- [Project 1](https://github.com/yourusername/project1) - Brief description
-- [Project 2](https://github.com/yourusername/project2) - Brief description
-- [Project 3](https://github.com/yourusername/project3) - Brief description
-
-## 🌱 I'm currently learning
-- Technology 1
-- Technology 2
-- Technology 3
+[![GitHub followers](https://img.shields.io/github/followers/nngochai2?label=Follow&style=social)](https://github.com/nngochai2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/nngochai/)
+[![Website](https://img.shields.io/badge/Website-yourdomain.com-informational?style=flat-square&logo=appveyor&logoColor=white&color=2bbc8a)](https://nguyenngochai.vercel.app/)
 
 ## 💼 Skills
 
@@ -60,41 +47,16 @@ Software developer. Currently studying at RMIT University.
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 This week I spent my time on
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&theme=radical)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nngochai2&layout=compact&theme=radical)
 
 ## 💡 Featured Projects
 
 <a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nngochai2&repo=project1&theme=radical" />
 </a>
 <a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nngochai2&repo=project2&theme=radical" />
 </a>
-
-## 🎯 Goals for 2025
-- Goal 1
-- Goal 2
-- Goal 3
-
-## 📫 How to reach me
-- Email: youremail@example.com
-- Discord: yourusername#0000
-
-## 🎮 When I'm not coding
-- Hobby 1
-- Hobby 2
-- Hobby 3
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](https://yourblog.com/post1)
-- [Blog Post 2](https://yourblog.com/post2)
-- [Blog Post 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <p align="center">
   <i>Let's connect and chat! Open to collaborating on projects and innovative ideas.</i>
@@ -111,5 +73,3 @@ Software developer. Currently studying at RMIT University.
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter"/>
   </a>
 </p>
-
-<!-- Profile README template created with the help of an AI assistant -->
