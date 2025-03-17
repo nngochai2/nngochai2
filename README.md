@@ -4,8 +4,8 @@
 Software developer. Currently studying at RMIT University.
 
 [![GitHub followers](https://img.shields.io/github/followers/nngochai2?label=Follow&style=social)](https://github.com/nngochai2)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/nngochai/)
-[![Website](https://img.shields.io/badge/Website-yourdomain.com-informational?style=flat-square&logo=appveyor&logoColor=white&color=2bbc8a)](https://nguyenngochai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nngochai/)](https://www.linkedin.com/in/nngochai/)
+[![Website](https://img.shields.io/badge/Website-nguyenngochai.vercel.app-informational?style=flat-square&logo=appveyor&logoColor=white&color=2bbc8a)](https://nguyenngochai.vercel.app/)
 
 ## 💼 Skills
 
@@ -39,37 +39,9 @@ Software developer. Currently studying at RMIT University.
 ## 📈 GitHub Stats
 
 <a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nngochai2&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nngochai2&layout=compact&theme=radical" />
 </a>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 This week I spent my time on
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nngochai2&layout=compact&theme=radical)
-
-## 💡 Featured Projects
-
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nngochai2&repo=project1&theme=radical" />
-</a>
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nngochai2&repo=project2&theme=radical" />
-</a>
-
-<p align="center">
-  <i>Let's connect and chat! Open to collaborating on projects and innovative ideas.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-youremail%40example.com-brightgreen?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter"/>
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nngochai2&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
