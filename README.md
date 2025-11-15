@@ -1,7 +1,7 @@
 # Hi there, I'm Ngoc Hai 👋
 
 ## About Me
-Software developer. Currently studying at RMIT University.
+Software developer. Just graduated from RMIT University. 
 
 [![GitHub followers](https://img.shields.io/github/followers/nngochai2?label=Follow&style=social)](https://github.com/nngochai2)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nngochai/)](https://www.linkedin.com/in/nngochai/)
