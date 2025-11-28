@@ -38,6 +38,7 @@ Software developer. Just graduated from RMIT University.
 <a href="https://github.com/nngochai2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nngochai2&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nngochai2&layout=compact&theme=radical" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nngochai2&theme=radical)](https://git.io/streak-stats)
 </a>
 
 ## 🏆 GitHub Trophies
