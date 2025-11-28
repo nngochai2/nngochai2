@@ -35,7 +35,6 @@ Software developer. Just graduated from RMIT University.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
-
 <a href="https://github.com/nngochai2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nngochai2&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nngochai2&layout=compact&theme=radical" />
