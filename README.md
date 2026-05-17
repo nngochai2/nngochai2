@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ngoc%20Hai%20Nguyen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20RMIT%20Graduate&descAlignY=51&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Ngoc%20Hai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20RMIT%20Graduate&descAlignY=51&descAlign=50)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Ngoc+Hai+%F0%9F%91%8B;Full-Stack+Developer+%7C+RMIT+Graduate;Building+things+that+matter;Always+learning%2C+always+growing" alt="Typing SVG" />
@@ -18,16 +18,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Fresh graduate from **RMIT University**
-- 💼 Full-stack developer passionate about building scalable web applications
-- 🌱 Currently deepening my knowledge in cloud architecture and system design
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
+- Fresh graduate from **RMIT University**.
+- Currently work at **FPT Software**.
+- Full-stack developer passionate about building interesting projects and helping solutions.
+- Currently deepening my knowledge in building **Agent-driven workflows and solutions** for traditional SDLC. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nngochai2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -62,7 +62,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nngochai2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
