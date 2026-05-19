@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Ngoc%20Hai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20RMIT%20Graduate&descAlignY=51&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Ngoc%20Hai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20RMIT%20Graduate&descAlignY=51&descAlign=50)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Ngoc+Hai+%F0%9F%91%8B;Software+Developer+%7C+RMIT+Graduate;Building+things+that+matter;Always+learning%2C+always+growing" alt="Typing SVG" />
