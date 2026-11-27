@@ -64,7 +64,7 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nngochai2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="github-trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
